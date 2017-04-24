@@ -1,0 +1,5 @@
+C:\EDM\Encrypt\obj\Debug\Encrypt.csprojResolveAssemblyReference.cache
+C:\EDM\Encrypt\bin\Debug\Encrypt.exe
+C:\EDM\Encrypt\bin\Debug\Encrypt.pdb
+C:\EDM\Encrypt\obj\Debug\Encrypt.exe
+C:\EDM\Encrypt\obj\Debug\Encrypt.pdb
